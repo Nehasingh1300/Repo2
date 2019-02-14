@@ -1,8 +1,3 @@
-/* Calloc():
-	It is a method used to dynamically allocate the specified number of blocks of memory of specified type; it initialises each block with default value'0'
-				ptr = (cast-type*) calloc(n, element size)
-				ptr = (float*) calloc (25, sizeof()float)*/
-
 #include <iostream> 
 using namespace std;
 
