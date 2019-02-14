@@ -5,7 +5,7 @@ using namespace std;
   
 int main() 
 { 
- 
+ 	//this is the pointer *ptr
     int* ptr; 
     int n, i, sum = 0; 
   
